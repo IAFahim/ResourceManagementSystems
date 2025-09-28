@@ -1,5 +1,5 @@
 {
-    "name": "Analyze.AssetBundle.Runtime",
+    "name": "ResourceAnalyzeAssetBundle.Runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
